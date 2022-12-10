@@ -1,0 +1,7 @@
+/home/teng/cppprogram/pcdregister/build/CMakeFiles/install/strip.dir
+/home/teng/cppprogram/pcdregister/build/CMakeFiles/install/local.dir
+/home/teng/cppprogram/pcdregister/build/CMakeFiles/install.dir
+/home/teng/cppprogram/pcdregister/build/CMakeFiles/list_install_components.dir
+/home/teng/cppprogram/pcdregister/build/CMakeFiles/rebuild_cache.dir
+/home/teng/cppprogram/pcdregister/build/CMakeFiles/edit_cache.dir
+/home/teng/cppprogram/pcdregister/build/CMakeFiles/pcdregister.dir
